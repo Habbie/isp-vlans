@@ -2,9 +2,10 @@ You can contribute to this list [via GitHub](https://github.com/Habbie/isp-vlans
 
 | VLAN number | ISPs
 |-------------|-----------------------------------------------------------------------------------------------------------------------------
-| 4           | [KPN TV](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾
+| 4           | [KPN TV](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾ <br />[tweak.nl TV](https://www.tweak.nl/support/apparatuur-configureren.html)
 | 6           | [KPN Internet](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾
 | 7           | [KPN Voice](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾
+| 34          | [tweak.nl Internet](https://www.tweak.nl/support/apparatuur-configureren.html)
 | 100         | [Delta Fiber Internet](https://www.delta.nl/klantenservice/vrije-modemkeuze/)
 | 101         | [Delta Fiber TV](https://www.delta.nl/klantenservice/vrije-modemkeuze/)
 | 102         | [Delta Fiber Voice](https://www.delta.nl/klantenservice/vrije-modemkeuze/)
