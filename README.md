@@ -1,5 +1,10 @@
 # VLAN numbers used by access ISPs
 
+This table attempts to collect VLAN numbers used by various access ISPs around the world.
+My initial purpose for this was so that I can avoid using those numbers in my home network.
+
+Based on community contributions, the table now also lists a few non-ISP VLAN numbers that have specific semantics.
+
 You can contribute to this list [via GitHub](https://github.com/Habbie/isp-vlans).
 
 If you are looking for more information on configuring your own equipment with an ISP, [AVM keeps a nice list of links](https://nl.avm.de/service/vrije-modemkeuze/).
@@ -20,6 +25,7 @@ If you are looking for more information on configuring your own equipment with a
 | 424         | [Freedom.nl TV via Glasvezel Helmond](https://helpdesk.freedom.nl/category-detail/algemene-instellingen-eigen-modem#instellingen-voor-de-glasvezelverbindingen)
 | 426         | [Freedom.nl Internet via Glasvezel Helmond](https://helpdesk.freedom.nl/category-detail/algemene-instellingen-eigen-modem#instellingen-voor-de-glasvezelverbindingen)
 | 640         | [T-Mobile.nl TV, depending on product](https://www.t-mobile.nl/klantenservice/thuis/internet-wifi/installeren/eigen-modem)
+| 1002-1005   | [Cisco reserved VLANS](https://showipprotocols.blogspot.com/2014/04/default-reserved-vlan-cisco-ios-nx-os.html)
 | 2005        | [Kabel Noord Voice](https://www.kabelnoord.nl/service-en-contact/veelgestelde-vragen/internet/welke-gegevens-heb-ik-nodig-als-ik-mijn-eigen-modem-wil-gebruiken)
 | 2009        | [Kabel Noord Internet](https://www.kabelnoord.nl/service-en-contact/veelgestelde-vragen/internet/welke-gegevens-heb-ik-nodig-als-ik-mijn-eigen-modem-wil-gebruiken)
 | 3000        | [SVK Internet](https://www.skv.nl/vrije-modem-keuze/)
