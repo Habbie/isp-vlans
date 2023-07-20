@@ -1,7 +1,7 @@
 You can contribute to this list [via GitHub](https://github.com/Habbie/isp-vlans).
 
 | VLAN number | ISPs
-|-------------|-----------------------------------------------------------------------------------------------------------------------------
+|------------:|-----------------------------------------------------------------------------------------------------------------------------
 | 4           | [KPN TV](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾
 | 4           | [tweak.nl TV](https://www.tweak.nl/support/apparatuur-configureren.html)
 | 6           | [KPN Internet](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾
