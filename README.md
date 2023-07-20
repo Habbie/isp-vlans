@@ -1,4 +1,4 @@
-hello
+You can contribute to this list [via GitHub](https://github.com/Habbie/isp-vlans)
 
 | VLAN number | ISPs                                                                                                                        |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------|
