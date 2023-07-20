@@ -14,7 +14,7 @@ If you are looking for more information on configuring your own equipment with a
 |           4 | [KPN TV](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾                                                                                                         | DHCP        |
 |           4 | [tweak.nl TV](https://www.tweak.nl/support/apparatuur-configureren.html)                                                                                              | DHCP        |
 |           6 | [KPN Internet](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾                                                                                                   | PPPoE       |
-|           7 | [KPN Voice](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾                                                                                                      | PPPoE       |
+|           7 | [KPN Voice](https://www.kpn.com/service/eigen-apparatuur.htm) (on older router models)                                                                                | PPPoE       |
 |          34 | [tweak.nl Internet en Bellen](https://www.tweak.nl/support/apparatuur-configureren.html)                                                                              | DHCP        |
 |         100 | [Delta Fiber Internet](https://www.delta.nl/klantenservice/vrije-modemkeuze/)                                                                                         | DHCP        |
 |         101 | [Delta Fiber TV](https://www.delta.nl/klantenservice/vrije-modemkeuze/)                                                                                               | DHCP        |
