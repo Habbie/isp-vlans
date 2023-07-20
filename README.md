@@ -3,8 +3,10 @@ You can contribute to this list [via GitHub](https://github.com/Habbie/isp-vlans
 | VLAN number | ISPs                                                                                                                        |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------|
 | 4           | [KPN TV](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾                                                               |
+| 4           | [Tweak TV](https://www.tweak.nl/support/apparatuur-configureren.html)                                                       |
 | 6           | [KPN Internet](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾                                                         |
 | 7           | [KPN Voice](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾                                                            |
+| 34          | [Tweak internet en bellen](https://www.tweak.nl/support/apparatuur-configureren.html)                                       |
 | 300         | [T-Mobile.nl VDSL, Fiber Internet](https://www.t-mobile.nl/klantenservice/thuis/internet-wifi/installeren/eigen-modem)      |
 | 424         | [Freedom.nl TV via Glasvezel Helmond](https://helpdesk.freedom.nl/category-detail/algemene-instellingen-eigen-modem#instellingen-voor-de-glasvezelverbindingen)  |
 | 426         | [Freedom.nl Internet via Glasvezel Helmond](https://helpdesk.freedom.nl/category-detail/algemene-instellingen-eigen-modem#instellingen-voor-de-glasvezelverbindingen)  |
