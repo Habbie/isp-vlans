@@ -9,6 +9,7 @@ You can contribute to this list [via GitHub](https://github.com/Habbie/isp-vlans
 | 100         | [Delta Fiber Internet](https://www.delta.nl/klantenservice/vrije-modemkeuze/)
 | 101         | [Delta Fiber TV](https://www.delta.nl/klantenservice/vrije-modemkeuze/)
 | 102         | [Delta Fiber Voice](https://www.delta.nl/klantenservice/vrije-modemkeuze/)
+| 248         | [Online.nl fiber via DFN](https://www.online.nl/klantenservice/internet-en-wifi/eigen-apparatuur/)
 | 300         | [T-Mobile.nl VDSL, Fiber Internet](https://www.t-mobile.nl/klantenservice/thuis/internet-wifi/installeren/eigen-modem)
 | 424         | [Freedom.nl TV via Glasvezel Helmond](https://helpdesk.freedom.nl/category-detail/algemene-instellingen-eigen-modem#instellingen-voor-de-glasvezelverbindingen)
 | 426         | [Freedom.nl Internet via Glasvezel Helmond](https://helpdesk.freedom.nl/category-detail/algemene-instellingen-eigen-modem#instellingen-voor-de-glasvezelverbindingen)
