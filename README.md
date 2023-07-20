@@ -18,5 +18,6 @@ If you are looking for more information on configuring your own equipment with a
 | 424         | [Freedom.nl TV via Glasvezel Helmond](https://helpdesk.freedom.nl/category-detail/algemene-instellingen-eigen-modem#instellingen-voor-de-glasvezelverbindingen)
 | 426         | [Freedom.nl Internet via Glasvezel Helmond](https://helpdesk.freedom.nl/category-detail/algemene-instellingen-eigen-modem#instellingen-voor-de-glasvezelverbindingen)
 | 640         | [T-Mobile.nl TV, depending on product](https://www.t-mobile.nl/klantenservice/thuis/internet-wifi/installeren/eigen-modem)
+| 3000        | [SVK Internet](https://www.skv.nl/vrije-modem-keuze/)
 
 1) these VLAN numbers, especially number 4, are also used by various providers that offer their services over the KPN network or other networks
