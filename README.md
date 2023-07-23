@@ -18,7 +18,7 @@ If you are looking for more information on configuring your own equipment with a
 |          34 | [tweak.nl Internet en Bellen](https://www.tweak.nl/support/apparatuur-configureren.html)                                                                              | DHCP        |
 |         100 | [Delta Fiber Internet](https://www.delta.nl/klantenservice/vrije-modemkeuze/), [Caiway Fiber](https://www.caiway.nl/klantenservice/vrije-modemkeuze)                  | DHCP        |
 |         101 | [Delta Fiber TV](https://www.delta.nl/klantenservice/vrije-modemkeuze/), [Caiway Fiber](https://www.caiway.nl/klantenservice/vrije-modemkeuze)                        | DHCP        |
-|         102 | [Delta Fiber Voice](https://www.delta.nl/klantenservice/vrije-modemkeuze/), , [Caiway Fiber](https://www.caiway.nl/klantenservice/vrije-modemkeuze)                   | DHCP        |
+|         102 | [Delta Fiber Voice](https://www.delta.nl/klantenservice/vrije-modemkeuze/), [Caiway Fiber](https://www.caiway.nl/klantenservice/vrije-modemkeuze)                     | DHCP        |
 |         188 | [Solcon Fiber TV via CAIW-EAS (Delta Fiber Netwerk)](https://www.solcon.nl/particulier/internet/eigen-modem-instellen-en-gebruiken/netwerk-specificatie-caiw-eas/)    | DHCP        |
 |         248 | [Online.nl fiber via DFN](https://www.online.nl/klantenservice/internet-en-wifi/eigen-apparatuur/)                                                                    | DHCP        |
 |         300 | [T-Mobile.nl VDSL, Fiber Internet](https://www.t-mobile.nl/klantenservice/thuis/internet-wifi/installeren/eigen-modem)                                                | DHCP        |
