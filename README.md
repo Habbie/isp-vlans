@@ -11,6 +11,8 @@ If you are looking for more information on configuring your own equipment with a
 
 | VLAN number | ISPs                                                                                                                                                                  | Access type |
 |------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+|           1 | [OpenWrt default LAN VLAN](https://openwrt.org/docs/guide-user/network/vlan/switch_configuration), commonly untagged in many devices                                  | DHCP        |
+|           2 | [OpenWrt default WAN VLAN](https://openwrt.org/docs/guide-user/network/vlan/switch_configuration)                                                                     |             |
 |           4 | [KPN TV](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾                                                                                                         | DHCP        |
 |           4 | [tweak.nl TV](https://www.tweak.nl/support/apparatuur-configureren.html)                                                                                              | DHCP        |
 |           6 | [KPN Internet](https://www.kpn.com/service/eigen-apparatuur.htm) ¹⁾                                                                                                   | PPPoE       |
