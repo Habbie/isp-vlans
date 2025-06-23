@@ -33,4 +33,4 @@ If you are looking for more information on configuring your own equipment with a
 |        2009 | [Kabel Noord Internet](https://www.kabelnoord.nl/service-en-contact/veelgestelde-vragen/internet/welke-gegevens-heb-ik-nodig-als-ik-mijn-eigen-modem-wil-gebruiken)   | DHCP        |
 |        3000 | [SVK Internet](https://www.skv.nl/vrije-modem-keuze/)                                                                                                                 | DHCP        |
 
-¹⁾ these VLAN numbers, especially number 4, are also used by various providers that offer their services over the KPN network or other networks
+¹⁾ these VLAN numbers, especially number 6, are also used by various providers that offer their services over the KPN network or other networks
