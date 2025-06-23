@@ -24,10 +24,10 @@ If you are looking for more information on configuring your own equipment with a
 |         107 | [Delta Fiber Zakelijk](https://www.delta.nl/klantenservice/vrije-modemkeuze/)                                                                                         | DHCP        |
 |         188 | [Solcon Fiber TV via CAIW-EAS (Delta Fiber Netwerk)](https://www.solcon.nl/particulier/internet/eigen-modem-instellen-en-gebruiken/netwerk-specificatie-caiw-eas/)    | DHCP        |
 |         248 | [Online.nl fiber via DFN](https://www.online.nl/klantenservice/internet-en-wifi/eigen-apparatuur/)                                                                    | DHCP        |
-|         300 | [Odido/T-Mobile.nl VDSL, Fiber Internet](https://www.odido.nl/service/producten/internet/instellingen/eigen-modem)                                                | DHCP        |
+|         300 | [Odido/T-Mobile.nl VDSL, Fiber Internet](https://www.odido.nl/service/producten/internet/instellingen/eigen-modem)                                                    | DHCP        |
 |         424 | [Freedom.nl TV via Glasvezel Helmond](https://helpdesk.freedom.nl/category-detail/algemene-instellingen-eigen-modem#instellingen-voor-de-glasvezelverbindingen)       | DHCP        |
 |         426 | [Freedom.nl Internet via Glasvezel Helmond](https://helpdesk.freedom.nl/category-detail/algemene-instellingen-eigen-modem#instellingen-voor-de-glasvezelverbindingen) | DHCP        |
-|         640 | [Odido/T-Mobile.nl TV, depending on product](https://assets.odido.nl/x/bc189792b4/eigen-modem-tv-instellingen.pdf)                                            | DHCP        |
+|         640 | [Odido/T-Mobile.nl TV, depending on product](https://assets.odido.nl/x/bc189792b4/eigen-modem-tv-instellingen.pdf)                                                    | DHCP        |
 |   1002-1005 | [Cisco reserved VLANS](https://showipprotocols.blogspot.com/2014/04/default-reserved-vlan-cisco-ios-nx-os.html)                                                       |             |
 |        2005 | [Kabel Noord Voice](https://www.kabelnoord.nl/service-en-contact/veelgestelde-vragen/internet/welke-gegevens-heb-ik-nodig-als-ik-mijn-eigen-modem-wil-gebruiken)      | DHCP        |
 |        2009 | [Kabel Noord Internet](https://www.kabelnoord.nl/service-en-contact/veelgestelde-vragen/internet/welke-gegevens-heb-ik-nodig-als-ik-mijn-eigen-modem-wil-gebruiken)   | DHCP        |
